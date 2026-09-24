@@ -1,4 +1,4 @@
-# Spoolman Kitty
+# Spoolkitty
 
 Automatic Spoolman QR labels on a Bluetooth "Kitty" cat printer (MX05 / MX06 / MX08 / MX10).
 
